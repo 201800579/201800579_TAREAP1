@@ -1,0 +1,14 @@
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\bin\Debug\201800579_CHUMPAS.exe.config
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\bin\Debug\201800579_CHUMPAS.exe
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\bin\Debug\201800579_CHUMPAS.pdb
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\bin\Debug\201800579_CHUMPAS.xml
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\201800579_CHUMPAS.vbproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\201800579_CHUMPAS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\_201800579_CHUMPAS.Resources.resources
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\201800579_CHUMPAS.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\201800579_CHUMPAS.vbproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\201800579_CHUMPAS.exe
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\201800579_CHUMPAS.xml
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\201800579_CHUMPAS.pdb
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\_201800579_CHUMPAS.Form1.resources
+C:\Users\ferna\source\repos\201800579_CHUMPAS\201800579_CHUMPAS\obj\Debug\_201800579_CHUMPAS.Form2.resources
